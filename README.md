@@ -1,6 +1,6 @@
 # ChatGPT 中文版：免费使用指南与镜像网站推荐（支持 GPT-4o、o1、o3、o4，无需翻墙）
 
-> 更新时间：**2025/6**
+> 更新时间：**2025-11-25**
 
 ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本ChatGPT入口，专为中文用户提供流畅且精准的对话体验。本指南整合了国内可用的 ChatGPT镜像网站 和 官网使用教程，帮助您快速掌握 ChatGPT，无论是个人使用还是专业应用，均可使用 ChatGPT、GPT-4、GPT-4o 和 o1！
 
@@ -9,7 +9,7 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本Chat
 | 镜像站名称           | 网址                                      | 支持版本                   | 免费额度                   | 功能亮点                         |
 |----------------------|-------------------------------------------|----------------------------|----------------------------|----------------------------------|
 | AIBox 一站式AI平台   | [aibox365](https://chat.aibox365.cn)      | GPT-4o, Claude3.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
-| allyfy               | [gptcat.net](https://www.allyfy.chat/)    | GPT-4, GPT-o1               | 5次                        | 有广告                            |
+| ai 镜像站               | [write.net](https://chat.write360.cn/)    | GPT-4, GPT-o1               | 5次                        | 有广告                            |
 | GPT/Claue聚合        | [ai-panda.xyz](https://chat.aibox365.cn)  | GPT-4o, Claude3.5, o1-pro   | 10次                       | 稳定快速,支持o1系列               |
 | MyGPT                | [mygpt.bid](https://mygpt.bid/)           | GPT-4, GPT-4o, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
 
