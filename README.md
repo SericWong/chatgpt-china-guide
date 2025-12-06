@@ -8,8 +8,8 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本Chat
 
 | 镜像站名称           | 网址                                      | 支持版本                   | 免费额度                   | 功能亮点                         |
 |----------------------|-------------------------------------------|----------------------------|----------------------------|----------------------------------|
-| AIBox 一站式AI平台   | [aibox365](https://chat.aibox365.cn)      | GPT-4o, Claude4.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
-| ai 镜像站               | [write.net](https://chat.write360.cn/)    | GPT-5, GPT-o3，Claude4.5，Gemini3.0     | 10次                        | 无广告                            |
+| AIBox 一站式AI平台   | [Aimi](https://chat.aimirror123.com)      | GPT-4o, Claude4.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
+| ai 镜像站               | [write.net](https://www.chatgpt-mirrors.com/chatgpt)    | GPT-5, GPT-o3，Claude4.5，Gemini3.0     | 10次                        | 无广告                            |
 | GPT/Claue聚合        | [ai-panda.xyz](https://chat.aibox365.cn)  | GPT-4o, Claude3.5, o1-pro   | 10次                       | 稳定快速,支持o1系列               |
 | MyGPT                | [mygpt.bid](https://mygpt.bid/)           | GPT-4, GPT-4o, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
 
@@ -19,7 +19,7 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本Chat
 
 | 模型名称   | 发布机构 | 主要特点                   | 多模态能力         | 思考与推理能力 | 文本处理能力 | 适用场景               |
 |------------|----------|----------------------------|--------------------|----------------|--------------|------------------------|
-| GPT-4.1    | OpenAI   | OpenAI 最新升级，文本方向极强 | 支持（文本为主）   | 强             | 极强         | 文本生成、写作、代码   |
+| GPT-5.1    | OpenAI   | OpenAI 最新升级，文本方向极强 | 支持（文本为主）   | 强             | 极强         | 文本生成、写作、代码   |
 | GPT-4o     | OpenAI   | 主打多模态，速度快，成本低   | 极强               | 强             | 很强         | 图文理解、语音、视频   |
 | o1         | OpenAI   | 思考和推理能力更强           | 支持               | 极强           | 很强         | 复杂推理、分析任务     |
 | o3         | OpenAI   | 思考和推理能力进一步提升     | 支持               | 极强+          | 很强         | 高级推理、专业分析     |
@@ -79,11 +79,11 @@ ChatGPT能够帮助用户处理复杂的数据分析任务，包括Excel处理�
 ## 如何快速开始使用 ChatGPT 中文版？
 
 ### 方法一：通过镜像站点快速体验
-1. **访问镜像站点：** 选择推荐的镜像站（如 [AIBox365](https://chat.aibox365.cn)）
+1. **访问镜像站点：** 选择推荐的镜像站（如 [AIMI](https://chat.aimirror123.com)）
 2. **注册或直接使用：**
    - 注册：填写邮箱或手机号，完成注册
    - 免注册：部分站点允许直接使用
-3. **选择 GPT 模型：** 根据需求选择 GPT-4o、Claude3.5Sonnet
+3. **选择 GPT 模型：** 根据需求选择 GPT-4o、Claude4.5Sonnet
 4. **开始对话：** 输入问题，即可获得高效回答
 
 ### 方法二：通过官网访问（需翻墙）
