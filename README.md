@@ -1,4 +1,4 @@
-# ChatGPT 中文版：免费使用指南与镜像网站推荐（支持 GPT-4o、o1、o3、o4，无需翻墙）
+# ChatGPT 中文版：免费使用指南与镜像网站推荐（支持 GPT5、GPT-4o、o1、o3、o4，无需翻墙）
 
 > 更新时间：**2025-12-22**
 
@@ -9,9 +9,11 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本Chat
 | 镜像站名称           | 网址                                      | 支持版本                   | 免费额度                   | 功能亮点                         |
 |----------------------|-------------------------------------------|----------------------------|----------------------------|----------------------------------|
 | AIBox 一站式AI平台   | [Aimi](https://chat.aimirror123.com)      | GPT-4o, Claude4.5, Gemini, o1 | 注册赠送算力55，每天登录赠送10次GPT4对话 | 支持GPT全模型，支持Midjourney、AIPPT |
-| ai 镜像站               | [write.net](https://www.chatgpt-mirrors.com/chatgpt)    | GPT-5, GPT-o3，Claude4.5，Gemini3.0     | 10次                        | 无广告                            |
+| ai 镜像站               | [GPT 镜像](https://www.chatgpt-mirrors.com/chatgpt)    | GPT-5, GPT-o3，Claude4.5，Gemini3.0     | 10次                        | 无广告                            |
 | GPT/Claue聚合        | [snakegpt](https://chat.snakegpt.vip/chat)  | GPT-4o, Claude3.5, o1-pro   | 10次                       | 稳定快速,支持o1系列               |
-| MyGPT                | [mygpt.bid](https://www.claude-site.com/claude/)           | GPT-4, GPT-4o, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
+| Claude 镜像                | [ claude 中文版](https://www.claude-site.com/claude/)           | Claude4.5sonnet,Claude4.5opus,GPT-5, GPT-4o, o1, o3       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
+| Grok 镜像                | [ Grok 中文版](https://www.grok-tool.com)           | GROK-4, Grok-4.1, GPT5.2       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
+| Gemini 镜像                | [ Gemini 中文版](https://www.gemini-tool.com)           | Gemini-3.0,GROK-4, Grok-4.1, GPT5.2       | 注册赠送额度，部分功能免费  | 支持多模型，界面简洁，速度快       |
 
 ---
 
